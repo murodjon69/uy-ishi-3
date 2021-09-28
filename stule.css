@@ -1,0 +1,29 @@
+
+body {
+    background-color: rgb(30,166,198);
+}
+
+h1 {
+    background-color: white;
+    width: 295px;
+    text-transform: uppercase;
+    color: rgb(30,166,198);
+    border-radius: 7px;
+}
+
+
+.katta-box {
+    background-color: white;
+    width: 450px;
+    border-radius: 7px;
+}
+.box1 , .box2 {
+    width: 195px;
+    display: inline-block;
+
+}
+
+.murodjon {
+ text-align: center;
+}
+

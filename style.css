@@ -1,0 +1,51 @@
+.sarlavha{
+    padding-left: 10px;
+    font-size: 22px;
+    color: gray;
+}
+img{
+    padding-left: 20px;
+}
+.tex1{
+    font-size: 14px;
+    padding-left: 33px;
+}
+.tex2{
+    padding-left: 13px;
+}
+.tex3{
+    padding-left: 15px;
+    font-size: 17px; 
+}
+.tex4{
+    padding-left: 33px;
+    font-size: 25px;
+}
+
+.sarlavha2 {
+    color:gold;
+    padding-left: 29px;
+    font-size: 30px;
+}
+.tex5{
+    padding-left: 30px;
+}
+.tex6{
+    color:rgb(175, 26, 26);
+    padding-left: 30px;
+    font-size: 25px;
+}
+.tex7{
+    color:gold;
+    padding-left: 30px;
+    font-size: 25px;
+}
+.sarlavh3{
+    color: rgb(173, 12, 12);
+    padding-left: 14px;
+    font-size: 20px;
+}
+
+ul {
+    list-style: none;
+}
